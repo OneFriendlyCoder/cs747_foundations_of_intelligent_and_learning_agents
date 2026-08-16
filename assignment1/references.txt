@@ -1,0 +1,8 @@
+https://ala2019.vub.ac.be/papers/ALA2019_paper_9.pdf
+https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/poisson.html
+https://www.georgeho.org/bayesian-bandits/
+https://hamsabastani.github.io/greedybandit.pdf
+https://allendowney.github.io/ThinkBayes2/chap18.html
+https://arxiv.org/pdf/2310.14129
+https://www.researchgate.net/publication/379368127_Comparative_analysis_of_the_KL-UCB_and_UCB_algorithms_Delving_into_complexity_and_performance
+https://arxiv.org/abs/1102.2490

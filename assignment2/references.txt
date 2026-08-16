@@ -1,0 +1,3 @@
+1) Linear Programming : https://www.youtube.com/watch?v=7yZ5xxdkTb8 
+2) https://coin-or.github.io/pulp/ 
+3) https://github.com/coin-or/Cbc 
