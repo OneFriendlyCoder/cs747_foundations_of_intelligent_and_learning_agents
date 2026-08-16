@@ -1,0 +1,10 @@
+https://www.chess.com/terms/fen-chess
+https://arxiv.org/pdf/1712.01815
+https://en.wikipedia.org/wiki/Minimax#Minimax_algorithm_with_alternate_moves
+https://en.wikipedia.org/wiki/Minichess
+https://www.youtube.com/watch?v=3pU-Hrz_xy4
+https://www.youtube.com/watch?v=l-hh51ncgDI
+https://www.chessprogramming.org/Quiescence_Search
+https://en.wikipedia.org/wiki/Quiescence_search
+https://www.sciencedirect.com/science/article/pii/0004370290900728
+https://arxiv.org/abs/1908.11660
